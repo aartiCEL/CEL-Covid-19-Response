@@ -1,1 +1,1 @@
-This repository has been setup by a team of volunteers to understand the spread and progression of the Covid-19 pandemic in India and Uttar Pradesh in particular. We hope that this platform can be leveraged for decision support by policy makers and by the larger community.
+This repository has been setup by a team of volunteers to understand and model the spread and progression of the Covid-19 pandemic in India and Uttar Pradesh in particular. We hope that this platform can be leveraged for decision support by policy makers and by the larger community.
