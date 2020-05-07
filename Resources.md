@@ -5,6 +5,8 @@
 
 [The MATH of Epidemics - Intro to the SIR model](https://www.youtube.com/watch?v=Qrp40ck3WpI)
 
+[High Contagiousness and Rapid Spread of Severe Acute Respiratory Syndrome Coronavirus 2](https://wwwnc.cdc.gov/eid/article/26/7/20-0282_article)
+
 ## Kevin Systrom's articles on SIR model & Effective R calculation
 
 [Predicting Coronavirus Cases](http://systrom.com/blog/predicting-coronavirus-cases/)
